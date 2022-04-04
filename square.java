@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class square{
+public class Square{
 
-    public void squareclass() {
+    public void squareClass() {
 
         Scanner input=new Scanner(System.in);
 

@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class cone {
+public class Cone {
 
-    public void coneclass() {
+    public void coneClass() {
 
         Scanner input=new Scanner(System.in);
         Float pie= 22/7f;

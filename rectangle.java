@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class rectangle {
+public class Rectangle {
 
-    public void rectangleclass() {
+    public void rectangleClass() {
 
         Scanner input= new Scanner(System.in);
 

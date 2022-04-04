@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class triangle {
+public class Triangle {
 
-    public void triangleclass() {
+    public void triangleClass() {
 
         Scanner input=new Scanner(System.in);
 

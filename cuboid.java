@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class cuboid {
+public class Cuboid {
 
-    public void cuboidclass() {
+    public void cuboidClass() {
 
         Scanner input=new Scanner(System.in);
         System.out.println("\nYou selected Cuboid");

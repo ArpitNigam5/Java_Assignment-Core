@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class cube {
+public class Cube {
 
-    public void cubeclass() {
+    public void cubeClass() {
 
         Scanner input=new Scanner(System.in);
         

@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class sphere {
+public class Sphere {
 
-    public void sphereclass() {
+    public void sphereClass() {
 
         Scanner input=new Scanner(System.in);
 

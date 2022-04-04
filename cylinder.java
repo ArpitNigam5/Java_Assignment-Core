@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class cylinder {
+public class Cylinder {
 
-    public void cylinderclass() {
+    public void cylinderClass() {
 
         Scanner input=new Scanner(System.in);
         Float pie= 22/7f;

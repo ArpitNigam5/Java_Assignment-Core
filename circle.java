@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class circle {
+public class Circle {
 
-    public void circleclass() {
+    public void circleClass() {
 
         Scanner input=new Scanner(System.in);
         Float pie= 22/7f;

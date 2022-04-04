@@ -28,48 +28,48 @@ public class Assignment_2 {
         
         switch (shapes) {
             case 1:
-            square squareobject = new square();
-            squareobject.squareclass();
+            Square squareobject = new Square();
+            squareobject.squareClass();
             break;
 
             case 2:
-            rectangle rectangleobject = new rectangle();
-            rectangleobject.rectangleclass();
+            Rectangle rectangleobject = new Rectangle();
+            rectangleobject.rectangleClass();
             break;
 
             case 3:
-            circle circleobject = new circle();
-            circleobject.circleclass();
+            Circle circleobject = new Circle();
+            circleobject.circleClass();
             break;
 
             case 4:
-            triangle triangleobject = new triangle();
-            triangleobject.triangleclass();
+            Triangle triangleobject = new Triangle();
+            triangleobject.triangleClass();
             break;
 
             case 5:
-            sphere sphereobject = new sphere();
-            sphereobject.sphereclass();
+            Sphere sphereobject = new Sphere();
+            sphereobject.sphereClass();
             break;
 
             case 6:
-            cylinder cylinderobject = new cylinder();
-            cylinderobject.cylinderclass();
+            Cylinder cylinderobject = new Cylinder();
+            cylinderobject.cylinderClass();
             break;
 
             case 7:
-            cone coneobject = new cone();
-            coneobject.coneclass();
+            Cone coneobject = new Cone();
+            coneobject.coneClass();
             break;
 
             case 8:
-            cube cubeobject = new cube();
-            cubeobject.cubeclass();
+            Cube cubeobject = new Cube();
+            cubeobject.cubeClass();
             break;
 
             case 9:
-            cuboid cuboidobject = new cuboid();
-            cuboidobject.cuboidclass();
+            Cuboid cuboidobject = new Cuboid();
+            cuboidobject.cuboidClass();
             break;
 
             case 10:
