@@ -1,0 +1,3 @@
+mahal = 0
+rome = 0
+taj = 0
